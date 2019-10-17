@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>sketch</title>
+<title>Sketch HandMade</title>
 <link rel="shortcut icon" href="favicon.png">
 <link rel="stylesheet" href="_assets/css/main.css" rel="">
 <script src="_assets/js/jquery.min.js"></script>
@@ -31,7 +31,7 @@
    
    <ul id="tools">
       <li>
-         <div class="prompt"><span class="p-q">Are you sure?</span> <i class="p-y">YES</i>| <i class="p-n">NO</i></div>
+         <div class="prompt"><span class="p-q">Are you sure ?</span> <i class="p-y">YES</i>| <i class="p-n">NO</i></div>
          <a href="#artboard" class="clear-canvas">
             <div class="icon"><?php echo file_get_contents('_assets/img/iconsketch-clear.svg'); ?></div>
             <span>clear<br>&nbsp;</span>
